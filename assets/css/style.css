@@ -186,6 +186,7 @@
 /* 共通クラス */
 .alert {
   color: #dd4b39;
+  font-family: 'PT Sans', Helvetica, Arial, YuGothic, 'Kozuka Gothic std', sans-serif;
 }
 
 .name:first-child {
